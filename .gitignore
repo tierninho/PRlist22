@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build folder and log file
 build/
 build.log
@@ -15,3 +16,6 @@ sdfsd
 dfdfd
 >>>>>>> master
 >>>>>>> HHH
+=======
+dfdfd
+>>>>>>> master
