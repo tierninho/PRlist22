@@ -1,18 +1,2 @@
-# Build folder and log file
-build/
-build.log
-<<<<<<< HEAD
-<<<<<<< HEAD
-sdfsd
-dfdfd
-=======
-,
->>>>>>> origin/QQQQQ
-=======
-,ssss
-=======
-sdfsd
-dfdfd
->>>>>>> master
->>>>>>> HHH
-*.ds
+
+#*.ds
